@@ -53,4 +53,10 @@ This project involves end-to-end data processing using MySQL — from removing d
 
 ---
 
+## 📷 Screenshots
+
+### Top 5 Companies by Layoffs Per Year
+![Top 5 Companies](screenshots/top5_companies_by_layoffs_per_year.png)
+---
+
 Built with ❤️ using MySQL
